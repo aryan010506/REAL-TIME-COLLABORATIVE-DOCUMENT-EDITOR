@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "948013df-5f4f-48ef-ba05-a5994057e836",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1748933490069"
+        }
+      },
+      "favorite": {
+        "name": "Real-Time Document Editor"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
